@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Hello Kath!</h1>
+=======
+	<h1>Hello Kath Again!</h1>
+>>>>>>> ab-6l_villegas
 	<img src="image.jpg"/>
 	<p> Katherine S. Villegas, 2012-18102, CMSC 128 AB-6L </p>
 </body>
